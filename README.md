@@ -1,30 +1,28 @@
-# 3D-Solar-System
-An interactive 3D solar system simulation built with Three.js, featuring realistic planetary orbits, dynamic speed control, zoom interactions, and a responsive UI with dark/light mode support.
-🌍 3D Solar System Simulation using Three.js – Detailed Description
-This project is a fully interactive, mobile-responsive 3D simulation of the solar system developed using Three.js, a powerful JavaScript library for rendering 3D graphics in the browser. It showcases all eight planets orbiting the Sun with realistic animation and customizable controls.
+# 3D Solar System Simulation - Madhumitha
 
-The simulation places the Sun at the center of the scene, surrounded by orbiting planets with individual sizes, colors, and orbital radii based on their real-life proportions. Each planet is animated to revolve around the Sun using requestAnimationFrame and trigonometric calculations.
+## 🚀 Project Overview
+This project is a 3D simulation of the Solar System built using [Three.js](https://threejs.org/). It includes:
+- The Sun at the center
+- All 8 planets orbiting with realistic speeds
+- Speed control sliders
+- Pause/Resume button
+- Orbit rings
+- Starry background
+- Dark/Light mode toggle
+- Zoom in on click
 
-Key features include:
+## 🔧 How to Run
+1. Open the `index.html` file in any modern browser (Chrome, Edge, Firefox).
+2. Use the control panel (top-left) to adjust planetary speeds.
+3. Click "Pause" to stop orbiting and "Resume" to continue.
+4. Click any planet to zoom in.
+5. Use "Toggle Light/Dark" to switch background themes.
 
-🌞 Central Sun with emissive lighting to illuminate the scene.
+## 📂 Folder Contents
+- `index.html` - Main code file (contains all HTML, CSS, JavaScript)
+- `README.md` - Project description and instructions
+- `Madhumitha_SolarSystem_Demo.mp4` - 2–3 minute demo video
 
-🪐 All 8 Planets from Mercury to Neptune, each revolving at unique speeds and radii.
-
-🎛️ Speed Control Sliders for each planet, allowing real-time adjustment of orbital speed.
-
-✨ Background Stars generated randomly to create a realistic outer space ambiance.
-
-🛑 Pause/Resume Button to stop and resume planetary motion.
-
-🔄 Orbit Rings to visually trace each planet’s path around the Sun.
-
-🖱️ Zoom on Planet Click, where the camera focuses on any planet clicked by the user.
-
-🌗 Dark/Light Mode Toggle, allowing the user to switch themes for better visual comfort.
-
-📱 Responsive Design to ensure compatibility across devices and screen sizes.
-
-The project uses a single HTML file containing embedded JavaScript and styles, ensuring easy deployment and quick loading. It demonstrates proficiency in 3D scene creation, object manipulation, animation, event handling, and UI integration using pure JavaScript and Three.js.
-
-This simulation offers an engaging educational experience and highlights frontend development skills in building real-time 3D applications without relying on external frameworks or CSS animations.
+## 👩‍💻 Developer Info
+**Name:** S. Madhumitha  
+**Frontend Developer Assignment - June 2025**
